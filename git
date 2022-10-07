@@ -7,6 +7,8 @@ git文件操作
 git add . #添加所有文件到暂存区
 git commit -m #提交暂存区内容到本地仓库
 git status
+git push -u origin "main"
+git push -u origin "master"
 
 .gitignore
 忽略所有txt文件
